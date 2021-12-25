@@ -11,7 +11,7 @@ yes,bitwalker,Paul Schoenfelder,<paulschoenfelder@fastmail.com> <paul@ockam.io>
 ,carlosflrs,Carlos Flores,<sudocarlosflores@protonmail.com>
 ,ercanersoy,Ercan Ersoy,<ercanersoy@ercanersoy.net>
 ,gustin,gustin,<gustin@users.noreply.github.com>
-yes,sobi3ch,Piotr Sobieszczański,<piotr.s@masterborn.com> <piotr.sobieszczanski@gmail.com>
+yes,sobi3ch,Piotr Sobieszczański,<piotr.s@masterborn.com> <piotr.sobieszczanski@gmail.com> <piotr@ockam.io>
 yes,sanjodeundiak,Oleksandr Deundiak,<deundiak@gmail.com> <olek@ockam.io> <oleksandr.d@masterborn.com> <Oleksandr Deundiak>
 yes,necromos,Przemysław Królik,<necromos@necroworks.net>
 yes,nilslice,Steve Manuel,<steve@ockam.io>
@@ -19,7 +19,7 @@ yes,fkouteib,Faycel Kouteib,<faycel.kouteib@gmail.com>
 yes,mikelodder7,Michael Lodder,<mike@ockam.io> <redmike7@gmail.com>
 yes,vvv,Valery V. Vorotyntsev,<valery.vv@gmail.com>
 yes,jared-s,Jared Stanbrough,<jared@ockam.io>
-yes,mjc,Michael J. Cohen,<mjc@kernel.org>
+yes,mjc,Michael J. Cohen,<mjc@kernel.org> <mika@ockam.io>
 yes,bartekpospiech,Bartek,<bartek.codes@gmail.com>
 yes,lukegalbraithrussell,Luke Russell,<luke.galbraith.russell@gmail.com>
 yes,winmillwill,Will Milton,<wa.milton@gmail.com>
@@ -31,7 +31,7 @@ yes,njvrzm,Nathan Verzemnieks,<njvrzm@gmail.com>
 yes,ls4096,Lukas,<ls4096@8bitbyte.ca>
 yes,xtian,Christian Wesselhoeft,<hi@xtian.us>
 yes,IslandUsurper,Lyle Mantooth,<ashagua@gmail.com>
-yes,drahnr,Bernhard Schuster,<bernhard+ockam@ahoi.io>
+yes,drahnr,Bernhard Schuster,<bernhard+ockam@ahoi.io> <bernhard@ahoi.io>
 yes,franziskuskiefer,Franziskus Kiefer,<franziskuskiefer@gmail.com>
 yes,gabhijit,Abhijit Gadgil,<gabhijit@iitbombay.org>
 yes,feniks65,Wojciech Wais,<wojciech.wais@gmail.com>
@@ -49,9 +49,9 @@ yes,Walter-Haydock,Walter Haydock,<41760518+Walter-Haydock@users.noreply.github.
 yes,sateeshkumarb,Sateesh Kumar B,<sateeshkumarb@yahoo.com>
 yes,cipherboy,Alexander Scheel,<alexander.m.scheel@gmail.com>
 yes,niklaslong,Niklas Long,<niklas@long.ch>
-yes,sveljko,Srdjan Veljkovic,<sr.veljkovic@gmail.com>
+yes,sveljko,Srdjan Veljkovic,<sr.veljkovic@gmail.com> <sveljko@gvs.rs>
 yes,thomcc,Thom Chiovoloni,<chiovolonit@gmail.com>
-yes,metaclips,Michael Uti,<utimichael@icloud.com>
+yes,metaclips,Michael Uti,<utimichael@icloud.com> <utimichael9@gmail.com>
 yes,devalain,Alain Buisseret,<me@alain.dev>
 yes,lelloman,Domenico Cerasuolo,<cerasuolodomenico@gmail.com>
 yes,l3pereira,Luis Pereira,<151566465+l3pereira@users.noreply.github.com>
@@ -60,15 +60,15 @@ yes,Stupremee,Justus K,<justus.k@protonmail.com>
 yes,Hraesvel,Martin Smith,<mcodesmith@gmail.com>
 yes,jim4067,James Mutuku,<jimmyimpulse2@gmail.com>
 yes,whereistejas, Tejas Sanap, <sanap.tejas@gmail.com>
-yes,plaxi0s,Pawan Dogra, <pawan.dogra99@gmail.com>
+yes,plaxi0s,Pawan Dogra, <pawan.dogra99@gmail.com> <35614614+plaxi0s@users.noreply.github.com>
 yes,mattjperez,Matthew J Perez,<matt@mperez.io>
 yes,MichalDolata,Michał Dolata,<dev@dolata.me>
 yes,giladwo,Gilad Woloch,<25708271+giladwo@users.noreply.github.com>
 yes,fisherdarling,Fisher Darling,<fdarlingco@gmail.com>
 yes,wkk,Bin Wang,<wkk@users.noreply.github.com>
-yes,NOBLES5E,Xiangru Lian,<admin@mail.xrlian.com>
+yes,NOBLES5E,Xiangru Lian,<admin@mail.xrlian.com> <xiangru@yandex.com>
 yes,abhishekc-sharma,Abhishek Chandramouli Sharma,<abhishekcs@protonmail.com>
-yes,radiantly,Joshua T,<radiantly@users.noreply.github.com>
+yes,radiantly,Joshua T,<radiantly@users.noreply.github.com> <buildingsomethingfun@gmail.com>
 yes,tanoarfinetti,Tano Arfinetti,<tanoarfinetti@gmail.com>
 yes,Szymongib,Szymon Gibała,<szymongib@gmail.com>
 yes,frazar,Francesco Zardi,<frazar0@hotmail.it>
@@ -82,3 +82,8 @@ yes,conectado,Gabriel Steinberg,<gabrielalejandro7@gmail.com>
 yes,ade5h,Adesh Attavar,<adesh.attavar@gmail.com>
 yes,pro465,Proloy Mishra,<namitapro0987@gmail.com>
 yes,Genysys,Samuel Dare,<samuel.b.dare@gmail.com>
+yes,spacekookie,Katharina Fey,<kookie@spacekookie.de> <katharina@ockam.io>
+yes,antoinevg,Antoine van Gelder,<antoine@ockam.io>
+yes,hairyhum,Daniil Fedotov,<daniil@ockam.io> <fedotov.danil@gmail.com>
+,dependabot,dependabot[bot],<49699333+dependabot[bot]@users.noreply.github.com>
+,github,GitHub,<noreply@github.com>
