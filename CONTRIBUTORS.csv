@@ -1,6 +1,11 @@
 Accepted CLA,Github User,Name,Emails
 yes,mrinalwadhwa,Mrinal Wadhwa,<mrinal@ockam.io>
 yes,mattgreg,Matthew Gregory,<matt@ockam.io>
+yes,dependabot[bot],dependabot[bot],<49699333+dependabot[bot]@users.noreply.github.com>
+yes,github,GitHub,<noreply@github.com>
+yes,mergify[bot],mergify[bot],<37929162+mergify[bot]@users.noreply.github.com>
+yes,ockam-team,Ockam Team,<dev@ockam.io>
+yes,github-actions[bot],github-actions[bot],
 yes,jagtek,Logan Jager,<logan@ockam.io>
 yes,brettnitschke,Brett Nitschke,<brett@ockam.io>
 ,rkaiser0324,Rolf Kaiser,<1090569+rkaiser0324@users.noreply.github.com>
@@ -86,8 +91,6 @@ yes,spacekookie,Katharina Fey,<kookie@spacekookie.de> <katharina@ockam.io>
 yes,antoinevg,Antoine van Gelder,<antoine@ockam.io>
 yes,hairyhum,Daniil Fedotov,<daniil@ockam.io> <fedotov.danil@gmail.com>
 yes,v0idpwn,Felipe Stival,<14948182+v0idpwn@users.noreply.github.com> <v0idpwn@gmail.com>
-yes,dependabot[bot],dependabot[bot],<49699333+dependabot[bot]@users.noreply.github.com>
-yes,github,GitHub,<noreply@github.com>
 yes,nk7608,Nayana,<nayana@ockam.io> <87853806+nk7608@users.noreply.github.com>
 yes,calebbourg,Caleb Bourg,<calebbourg2@gmail.com>
 yes,marpit19,Arpit Mohapatra,<arpit.mohapatra19@gmail.com>
@@ -98,12 +101,9 @@ yes,twittner,Toralf Wittner,<tw@dtex.org>
 yes,TheBorsuk,Mateusz Witkowski,<mateusz.w@masterborn.com>
 yes,0x2b3bfa0,Helio Machado,<0x2b3bfa0+ockam@googlemail.com>
 yes,arbourd,Dylan Arbour,<arbourd@users.noreply.github.com>
-yes,mergify[bot],mergify[bot],<37929162+mergify[bot]@users.noreply.github.com>
 yes,manavsiddharthgupta,Manav Gupta,<2006468@kiit.ac.in>
 yes,0x00A5,Yuan Lyu,<lyuyuan92@gmail.com>
 yes,lukasztucholski,Łukasz Tucholski,<luk.tucholski@gmail.com>
-yes,ockam-team,Ockam Team,<dev@ockam.io>
-yes,github-actions[bot],github-actions[bot],
 yes,beenzsyed,Sabeen Syed,<sabeen.kazmi@gmail.com> <sabeen@ockam.io>
 yes,alojzy231,Damian Kłos,<alojzy231@gmail.com>
 yes,mszpakowski,Michał Szpakowski,<michszpakowski@gmail.com>
